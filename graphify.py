@@ -1,17 +1,8 @@
-##
-## ========================================================== ##
-##  Akhar, Ammad, Bryan, Dhir
-##  Hackthenorth 2022
-##  Graphify
-## ========================================================== ##
-##
-
 '''
 Note: this program is based off of University of Waterloo
       MATH239 definitions and requirements
 '''
 
-# import django
 import networkx as nx
 from networkx.algorithms import bipartite
 import matplotlib.pyplot as plt
